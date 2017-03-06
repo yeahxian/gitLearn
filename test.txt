@@ -2,3 +2,4 @@ this is a test.
 add some local text
 add some remote text.
 lcoal: the command git branch
+local: git push origin test
