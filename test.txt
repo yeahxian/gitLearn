@@ -4,3 +4,4 @@ add some remote text.
 lcoal: the command git branch
 local: git push origin test
 merge test.txt
+ second modify
